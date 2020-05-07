@@ -13,6 +13,6 @@ module.exports = {
   ],
   siteMetadata: {
     title: `Shadowed Site Title`,
-    pathPrefix: "/gatsby-starter-theme",
   },
+  pathPrefix: "/gatsby-starter-theme",
 }
